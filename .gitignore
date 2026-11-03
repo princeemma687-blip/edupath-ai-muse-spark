@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+*.exe
+*.apk
+*.aab
+*.keystore
+*.jks
+*.pem
+*.key
+*.p12
